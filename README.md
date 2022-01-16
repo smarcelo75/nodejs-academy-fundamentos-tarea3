@@ -1,3 +1,3 @@
 ### Nodejs Academy NaranjaX
 
-Versión sin usar promesas
+Esta versión utiliza promesas para la funcion crearArchivo.
